@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd59141f-2551-4e09-a9d9-dee29e99d3de" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Assistance.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/404.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-home-1.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-home-2.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog-post.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/modern-business.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/faq.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/full-width.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/bubbles.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/children.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/makkah.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/quran.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/turkey.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/contact_me.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio-1-col.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio-2-col.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio-3-col.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio-4-col.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/portfolio-item.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pricing.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/services.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/sidebar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -81,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -116,7 +71,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -190,15 +145,15 @@
       <updated>1512919941590</updated>
       <workItem from="1512919946245" duration="2563000" />
       <workItem from="1513348760678" duration="612000" />
-      <workItem from="1513508500945" duration="925000" />
+      <workItem from="1513508500945" duration="1136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4100000" />
+    <option name="totallyTimeSpent" value="4311000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -297,7 +252,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
