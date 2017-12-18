@@ -1,3 +1,33 @@
 .nav-link--colored {
-    color: rgb(27, 86, 12);
+    color: #2f8f42;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.nav-link--colored:hover {
+    color: #0b2e13;
+    text-decoration: none;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background: #2f8f42;
+    border-color: #2f8f42;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    color: #2f8f42;
+    background: transparent;
+    border-color: #2f8f42;
+    font-weight: bold;
+}
+
+.card-title > a {
+    color: #2f8f42;
+}
+
+.card-title > a:hover {
+    color: #0b2e13;
+    text-decoration: none;
 }
